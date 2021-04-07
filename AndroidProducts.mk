@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_enchilada.mk
+    $(LOCAL_DIR)/aosp_enchilada.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_enchilada-user \
-    ssos_enchilada-userdebug \
-    ssos_enchilada-eng
+    aosp_enchilada-user \
+    aosp_enchilada-userdebug \
+    aosp_enchilada-engaosp
